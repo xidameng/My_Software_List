@@ -13,6 +13,7 @@
       - [Notepad++](https://notepad-plus-plus.org/downloads/)
 6. [Git](https://git-scm.com/downloads)
 7. [Cygwin 32bit](https://cygwin.com/setup-x86.exe)
+   (Refer to the [pdf](https://github.com/xidameng/My_Software_List/blob/main/UM0096%20Realtek%20Ameba%20build%20environment%20setup%20-%20gcc.pdf) attached)
       - bc
       - make
       - chere
@@ -22,6 +23,8 @@
 11. [Wireshark](https://www.wireshark.org/download.html)
 12. [VMware Player](https://www.vmware.com/go/downloadplayer)
 13. [Ubuntu LTS Latest Image(64bit)](https://ubuntu.com/download/desktop)
+14. [JLINK Debugger](https://www.segger.com/downloads/jlink/)
+15. [Mbed USB Driver](https://github.com/xidameng/My_Software_List/blob/main/mbedWinSerial_16466.exe)
 
 ## Promotion
 1. [QQ](https://im.qq.com/)
